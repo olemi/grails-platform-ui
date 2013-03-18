@@ -1,3 +1,7 @@
 .DS_Store
 plugin.xml
 target/
+.project
+.classpath
+.settings
+target-eclipse
